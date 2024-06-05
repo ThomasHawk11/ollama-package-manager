@@ -41,6 +41,6 @@ python ollama_runner.py
 
 ## Authors
 
-* **ThomasHawk** - *Initial work* - [GitHub Profile](https://github.com/yourusername)
+* **ThomasHawk** - *Initial work* - [GitHub Profile](https://github.com/ThomasHawk11)
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
