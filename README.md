@@ -21,7 +21,7 @@ A step by step series of examples that tell you how to get a development environ
 
 1. Clone the repository to your local machine
 ```
-git clone https://github.com/yourusername/ollama-package-manager.git
+git clone https://github.com/ThomasHawk11/ollama-package-manager.git
 ```
 2. Install the required packages
 ```
